@@ -1,3 +1,4 @@
+# We created a online version of the famous TV show "Kaun Banega Crorepati" using lists and loops in python.
 questions = [
     [
         "Who was the first president of India?", "Ram Nath Kovind", "Rajendra Prasad", "Sarvepalli Radhakrishnan", "Droupadi Murmu", 3
