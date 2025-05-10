@@ -1,3 +1,4 @@
+# Here we have used pypdf and os modules to merge different pdfs.
 from pypdf import PdfWriter, PdfReader
 import os
 
