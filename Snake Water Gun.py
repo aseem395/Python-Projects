@@ -1,3 +1,4 @@
+# In this project we have programmed the famous game snake water gun using the random module and if-else loop.
 import random
 def check(comp, user):
     if(comp == user):
