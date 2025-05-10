@@ -1,3 +1,4 @@
+# we used os module to arrange a bunch of .png files to "clear the clutter"
 import os
 files = os.listdir("D:/Coding")
 i = 1
